@@ -1,9 +1,10 @@
 <!-- =========================================================
      DAFFA HARASHTA RIZKY PRATAMA
-     DARK CYBERPUNK DEVELOPER PROFILE
+     DARK CYBERPUNK DEVELOPER PROFILE v2
+     Username : daffaharashtarizkypratama-commits
 ========================================================== -->
 
-<!-- 01. ANIMATED HEADER -->
+<!-- 01. HEADER -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050505,25:160024,60:4C0070,100:001F35&text=DAFFA%20HARASHTA%20RIZKY%20PRATAMA&fontSize=28&fontColor=FFFFFF&stroke=8B5CF6&strokeWidth=1&animation=twinkling&desc=INFORMATICS%20ENGINEERING%20%7C%20WEB%20DEVELOPER%20%7C%20AI&descSize=13&descAlignY=65" alt="Daffa Harashta Rizky Pratama"/>
@@ -21,29 +22,40 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=daffaharasht...&label=PROFILE+VISITORS&color=8B5CF6&style=for-the-badge" alt="Profile Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=daffaharashtarizkypratama-commits&label=PROFILE+VISITORS&color=8B5CF6&style=for-the-badge" alt="Profile Visitors"/>
+<a href="https://github.com/daffaharashtarizkypratama-commits?tab=followers">
+  <img src="https://img.shields.io/github/followers/daffaharashtarizkypratama-commits?style=for-the-badge&logo=github&color=00E5FF&labelColor=0D1117" alt="Followers"/>
+</a>
+<a href="https://github.com/daffaharashtarizkypratama-commits?tab=repositories">
+  <img src="https://img.shields.io/github/stars/daffaharashtarizkypratama-commits?style=for-the-badge&logo=github&color=FF003C&labelColor=0D1117" alt="Stars"/>
+</a>
 
 </div>
 
 ---
 
-<!-- 03. ABOUT ME -->
+<!-- 03. TERMINAL ABOUT -->
 
 <h2 align="center">◈ THE DEVELOPER BEHIND THE CODE ◈</h2>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8B5CF6,50:00E5FF,100:FF003C" width="90%" alt="Neon Divider"/>
+</div>
 
-<br/>
+```js
+// ~/daffa/profile.js
+const developer = {
+  name:     "Daffa Harashta Rizky Pratama",
+  role:     ["Informatics Engineering Student", "Web Developer", "AI Enthusiast"],
+  location: "Surakarta, Indonesia 🇮🇩",
+  focus:    ["Web Apps", "Backend Systems", "IoT", "Artificial Intelligence"],
+  currentlyLearning: ["Laravel", "Vue.js", "Flutter", "Machine Learning"],
+  motto:    "Think. Build. Innovate. Repeat.",
+  status:   "ONLINE ⚡ — open to collaboration",
+};
+```
 
-### `DAFFA HARASHTA RIZKY PRATAMA`
-
-**Informatics Engineering Student · Web Developer · AI Enthusiast**
-
-I am passionate about building digital solutions, exploring emerging technologies, and transforming ideas into useful applications.
-
-<br/>
+<div align="center">
 
 <table>
 <tr>
@@ -114,6 +126,23 @@ Creating technology that solves real problems and provides meaningful value.
 
 </div>
 
+<br/>
+
+<!-- SKILL LOADOUT (ubah persentase sesuai kemampuanmu) -->
+<div align="center">
+
+```text
+┌──────────────── SKILL LOADOUT ────────────────┐
+│  WEB FRONTEND   ████████░░  80%               │
+│  BACKEND / PHP  ███████░░░  70%               │
+│  DATABASE       ███████░░░  70%               │
+│  IOT / ESP32    █████░░░░░  50%               │
+│  AI / PYTHON    ████░░░░░░  40%   ← leveling  │
+└───────────────────────────────────────────────┘
+```
+
+</div>
+
 ---
 
 <!-- 05. GITHUB STATISTICS -->
@@ -128,19 +157,24 @@ Creating technology that solves real problems and provides meaningful value.
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaharashtarizkypratama-commits&layout=donut&langs_count=6&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Language Distribution"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=daffaharashtarizkypratama-commits&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF003C&currStreakLabel=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B5CF6&dates=9CA3AF" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-<!-- 06. CONTRIBUTION GRAPH -->
+<!-- 06. SNAKE / CONTRIBUTION -->
 
 <h2 align="center">◈ CONTRIBUTION MATRIX ◈</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<!-- Ular ini dibuat otomatis oleh workflow .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/output/github-snake-cyber.svg" width="100%" alt="Contribution Snake"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=daffaharashtarizkypratama-commits&bg_color=0D1117&color=8B5CF6&line=00E5FF&point=FFFFFF&area=true&area_color=4C0070&hide_border=true&custom_title=ACTIVITY%20SIGNAL" alt="Activity Graph"/>
 
 <br/>
 
@@ -154,15 +188,32 @@ Creating technology that solves real problems and provides meaningful value.
 
 <h2 align="center">◈ PROJECT DATABASE ◈</h2>
 
+<div align="center">
+
+<a href="https://github.com/daffaharashtarizkypratama-commits/GraphixCalculator">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=daffaharashtarizkypratama-commits&repo=GraphixCalculator&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00E5FF&text_color=FFFFFF" alt="GraphixCalculator"/>
+</a>
+<a href="https://github.com/daffaharashtarizkypratama-commits/sistem-layanan-laundry">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=daffaharashtarizkypratama-commits&repo=sistem-layanan-laundry&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00E5FF&text_color=FFFFFF" alt="Sistem Layanan Laundry"/>
+</a>
+
+<a href="https://github.com/daffaharashtarizkypratama-commits/V3425053_Modul_8_Vue_Laravel">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=daffaharashtarizkypratama-commits&repo=V3425053_Modul_8_Vue_Laravel&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00E5FF&text_color=FFFFFF" alt="Vue + Laravel"/>
+</a>
+
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">NABUNGLUR</h3>
+<h3 align="center">💸 NABUNGLUR</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DOMAIN-FINTECH-8B5CF6?style=flat-square" alt="Finance"/>
+<img src="https://img.shields.io/badge/DOMAIN-FINTECH-8B5CF6?style=flat-square" alt="Fintech"/>
 <img src="https://img.shields.io/badge/TYPE-WEB_APP-00E5FF?style=flat-square" alt="Web App"/>
 
 </div>
@@ -174,7 +225,7 @@ A financial management application designed to help students record income, expe
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">GREENHOUSE IoT</h3>
+<h3 align="center">🌱 GREENHOUSE IoT</h3>
 
 <div align="center">
 
@@ -189,74 +240,7 @@ An environmental monitoring project using ESP32 and sensors to explore connected
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">GRAPHIXCALCULATOR</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TECH-HTML-E34F26?style=flat-square" alt="HTML"/>
-<img src="https://img.shields.io/badge/TYPE-WEB-8B5CF6?style=flat-square" alt="Web"/>
-
-</div>
-
-A simple web application for financial management.
-
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-8B5CF6?style=for-the-badge&logo=github)](https://github.com/daffaharashtarizkypratama-commits/GraphixCalculator)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">LAUNDRY MANAGEMENT</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TECH-JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/TYPE-MANAGEMENT-00E5FF?style=flat-square" alt="Management"/>
-
-</div>
-
-A laundry service management project developed using Java.
-
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-8B5CF6?style=for-the-badge&logo=github)](https://github.com/daffaharashtarizkypratama-commits/sistem-layanan-laundry)
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">VUE + LARAVEL</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-<img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-
-</div>
-
-A frontend development project integrating Vue.js and Laravel.
-
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-8B5CF6?style=for-the-badge&logo=github)](https://github.com/daffaharashtarizkypratama-commits/V3425053_Modul_8_Vue_Laravel)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">MORE PROJECTS</h3>
-
-Explore additional programming projects, experiments, and technical assignments.
+</table>
 
 <div align="center">
 
@@ -264,13 +248,9 @@ Explore additional programming projects, experiments, and technical assignments.
 
 </div>
 
-</td>
-</tr>
-</table>
-
 ---
 
-<!-- 08. GITHUB TROPHIES -->
+<!-- 08. TROPHIES -->
 
 <h2 align="center">◈ ACHIEVEMENT ARCHIVE ◈</h2>
 
@@ -300,7 +280,17 @@ Explore additional programming projects, experiments, and technical assignments.
 
 ---
 
-<!-- 10. CONNECT -->
+<!-- 10. QUOTE -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<!-- 11. CONNECT -->
 
 <h2 align="center">◈ ESTABLISH CONNECTION ◈</h2>
 
@@ -310,6 +300,18 @@ Explore additional programming projects, experiments, and technical assignments.
   <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Profile"/>
 </a>
 
+<!-- Hapus tanda komentar & ganti dengan akunmu:
+<a href="https://www.linkedin.com/in/USERNAME">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/USERNAME">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
+</a>
+<a href="mailto:EMAILMU@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
+</a>
+-->
+
 <br/><br/>
 
 `OPEN TO LEARNING • COLLABORATION • DIGITAL INNOVATION`
@@ -318,7 +320,7 @@ Explore additional programming projects, experiments, and technical assignments.
 
 ---
 
-<!-- 11. ANIMATED FOOTER -->
+<!-- 12. FOOTER -->
 
 <div align="center">
 
