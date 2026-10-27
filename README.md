@@ -1,223 +1,268 @@
-<!-- ===================================================== -->
-<!-- DAFFA HARASHTA RIZKY PRATAMA | CYBERPUNK GITHUB PROFILE -->
-<!-- ===================================================== -->
+<!-- =========================================================
+     DAFFA HARASHTA RIZKY PRATAMA
+     DARK CYBERPUNK DEVELOPER PROFILE
+========================================================== -->
 
+<!-- 01. ANIMATED HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,50:18002E,100:4C0070&text=DAFFA%20HARASHTA%20RIZKY%20PRATAMA&fontSize=28&fontColor=FFFFFF&stroke=8B5CF6&strokeWidth=1&animation=twinkling&desc=WEB%20DEVELOPER%20%7C%20AI%20ENTHUSIAST%20%7C%20DIGITAL%20CREATOR&descSize=14&descAlignY=65" alt="Cyberpunk Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050505,25:160024,60:4C0070,100:001F35&text=DAFFA%20HARASHTA%20RIZKY%20PRATAMA&fontSize=28&fontColor=FFFFFF&stroke=8B5CF6&strokeWidth=1&animation=twinkling&desc=INFORMATICS%20ENGINEERING%20%7C%20WEB%20DEVELOPER%20%7C%20AI&descSize=13&descAlignY=65" alt="Daffa Harashta Rizky Pratama"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&repeat=true&width=750&height=65&lines=%3E+INITIALIZING+SYSTEM...;%3E+ACCESS+GRANTED;%3E+WELCOME+TO+DAFFA'S+DIGITAL+WORLD;%3E+WEB+DEVELOPER+%7C+AI+ENTHUSIAST;%3E+BUILDING+THE+FUTURE+WITH+CODE;%3E+THINK.+BUILD.+AUTOMATE.+REPEAT." alt="Typing Animation"/>
+<!-- 02. TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=%3E+INITIALIZING+SYSTEM...;%3E+ACCESS+GRANTED;%3E+WELCOME+TO+MY+DIGITAL+WORLD;%3E+WEB+DEVELOPER+%7C+AI+ENTHUSIAST;%3E+BUILDING+THE+FUTURE+WITH+CODE;%3E+THINK.+BUILD.+INNOVATE." alt="Typing Animation"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF9C?style=for-the-badge&logo=linux&logoColor=black" alt="System Online"/>
-<img src="https://img.shields.io/badge/MODE-DARK%20CYBER-8B5CF6?style=for-the-badge" alt="Dark Cyber Mode"/>
-<img src="https://img.shields.io/badge/STATUS-CODING-FF003C?style=for-the-badge" alt="Coding Status"/>
+<img src="https://img.shields.io/badge/PROFILE-DARK_CYBER-8B5CF6?style=for-the-badge" alt="Dark Cyber"/>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-FF003C?style=for-the-badge" alt="Always Learning"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=daffaharashtarizkypratama-commits&label=PROFILE+VISITORS&color=8B5CF6&style=for-the-badge" alt="Profile Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=daffaharasht...&label=PROFILE+VISITORS&color=8B5CF6&style=for-the-badge" alt="Profile Visitors"/>
 
 </div>
 
 ---
 
-# `> WHO_AM_I`
+<!-- 03. ABOUT ME -->
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   USER       : DAFFA HARASHTA RIZKY PRATAMA        │
-│   ROLE       : INFORMATICS ENGINEERING STUDENT     │
-│   UNIVERSITY : UNIVERSITAS SEBELAS MARET           │
-│   LOCATION   : INDONESIA                           │
-│                                                     │
-│   SPECIALTY  : WEB DEVELOPMENT                     │
-│   INTEREST   : ARTIFICIAL INTELLIGENCE             │
-│   PASSION    : DIGITAL TECHNOLOGY                  │
-│                                                     │
-│   CURRENT MISSION:                                  │
-│   > BUILD USEFUL DIGITAL SOLUTIONS                 │
-│   > EXPLORE AI & AUTOMATION                        │
-│   > DEVELOP REAL-WORLD PROJECTS                    │
-│                                                     │
-│   SYSTEM STATUS: ACTIVE                            │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+<h2 align="center">◈ THE DEVELOPER BEHIND THE CODE ◈</h2>
 
 <div align="center">
 
-### `SYSTEM INFORMATION`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8B5CF6,50:00E5FF,100:FF003C" width="90%" alt="Neon Divider"/>
 
-I'm **Daffa Harashta Rizky Pratama**, an Informatics Engineering student passionate about technology, programming, artificial intelligence, and digital innovation.
+<br/>
 
-I enjoy transforming ideas into functional applications and continuously exploring new technologies.
+### `DAFFA HARASHTA RIZKY PRATAMA`
 
-**My mission is to build impactful digital solutions through creativity, technology, and code.**
+**Informatics Engineering Student · Web Developer · AI Enthusiast**
+
+I am passionate about building digital solutions, exploring emerging technologies, and transforming ideas into useful applications.
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### `01 / DEVELOPMENT`
+
+Building responsive web applications, backend systems, and practical digital products.
+
+</td>
+<td align="center" width="50%">
+
+### `02 / EXPLORATION`
+
+Learning artificial intelligence, automation, IoT, and modern software development.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### `03 / MINDSET`
+
+Focused on continuous learning, problem-solving, and writing maintainable code.
+
+</td>
+<td align="center" width="50%">
+
+### `04 / MISSION`
+
+Creating technology that solves real problems and provides meaningful value.
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# `> TECHNOLOGY_ARSENAL`
+<!-- 04. TECH STACK -->
+
+<h2 align="center">◈ TECHNOLOGY ARSENAL ◈</h2>
 
 <div align="center">
 
-### `[ FRONTEND DEVELOPMENT ]`
+### `// FRONTEND`
 
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue&theme=dark" alt="Frontend Technologies"/>
 
 <br/><br/>
 
-### `[ BACKEND DEVELOPMENT ]`
+### `// BACKEND & DATABASE`
 
-<img src="https://skillicons.dev/icons?i=php,laravel,java&theme=dark" alt="Backend Technologies"/>
-
-<br/><br/>
-
-### `[ DATABASE & CLOUD ]`
-
-<img src="https://skillicons.dev/icons?i=mysql,aws&theme=dark" alt="Database and Cloud"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,java&theme=dark" alt="Backend Technologies"/>
 
 <br/><br/>
 
-### `[ DEVELOPMENT TOOLS ]`
+### `// DEVELOPMENT TOOLS`
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma&theme=dark" alt="Development Tools"/>
 
 <br/><br/>
 
-### `[ CURRENTLY EXPLORING ]`
+### `// EXPLORING`
 
-<img src="https://skillicons.dev/icons?i=python,flutter,dart,arduino&theme=dark" alt="Currently Exploring"/>
+<img src="https://skillicons.dev/icons?i=python,flutter,dart,arduino&theme=dark" alt="Technologies Exploring"/>
 
 </div>
 
 ---
 
-# `> GITHUB_ANALYTICS`
+<!-- 05. GITHUB STATISTICS -->
+
+<h2 align="center">◈ GITHUB ANALYTICS ◈</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=daffaharashtarizkypratama-commits&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=daffaharashtarizkypratama-commits&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00E5FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaharashtarizkypratama-commits&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaharashtarizkypratama-commits&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaharashtarizkypratama-commits&layout=donut&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Language Distribution"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaharashtarizkypratama-commits&layout=donut&langs_count=6&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Language Distribution"/>
 
 </div>
 
 ---
 
-# `> CONTRIBUTION_MATRIX`
+<!-- 06. CONTRIBUTION GRAPH -->
+
+<h2 align="center">◈ CONTRIBUTION MATRIX ◈</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+<img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 <br/>
 
-`[ EVERY COMMIT IS ANOTHER STEP FORWARD ]`
+`EVERY COMMIT IS ANOTHER STEP FORWARD`
 
 </div>
 
 ---
 
-# `> PROJECT_DATABASE`
+<!-- 07. FEATURED PROJECTS -->
 
-<div align="center">
-
-### `[ FEATURED PROJECTS ]`
-
-</div>
+<h2 align="center">◈ PROJECT DATABASE ◈</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `01 // NABUNGLUR`
+<h3 align="center">NABUNGLUR</h3>
 
-**Student Financial Management Application**
+<div align="center">
 
-A web application designed to help students track income, expenses, and manage personal finances.
+<img src="https://img.shields.io/badge/DOMAIN-FINTECH-8B5CF6?style=flat-square" alt="Finance"/>
+<img src="https://img.shields.io/badge/TYPE-WEB_APP-00E5FF?style=flat-square" alt="Web App"/>
 
-**Technology:** PHP, MySQL, JavaScript
+</div>
 
-**Status:** Private Repository
+A financial management application designed to help students record income, expenses, and personal finances.
+
+**Focus:** Financial tracking and transaction management.
 
 </td>
 <td width="50%" valign="top">
 
-### `02 // GREENHOUSE IoT`
+<h3 align="center">GREENHOUSE IoT</h3>
 
-**ESP32 Greenhouse Monitoring System**
+<div align="center">
 
-An IoT project focused on environmental monitoring using ESP32 and sensors.
+<img src="https://img.shields.io/badge/DOMAIN-IOT-00FF9C?style=flat-square" alt="IoT"/>
+<img src="https://img.shields.io/badge/PLATFORM-ESP32-FF003C?style=flat-square" alt="ESP32"/>
 
-**Technology:** ESP32, C++, IoT
+</div>
 
-**Status:** Private Repository
+An environmental monitoring project using ESP32 and sensors to explore connected greenhouse systems.
+
+**Focus:** Sensor data and IoT integration.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### `03 // GRAPHIXCALCULATOR`
+<h3 align="center">GRAPHIXCALCULATOR</h3>
 
-**Web-Based Financial Application**
+<div align="center">
+
+<img src="https://img.shields.io/badge/TECH-HTML-E34F26?style=flat-square" alt="HTML"/>
+<img src="https://img.shields.io/badge/TYPE-WEB-8B5CF6?style=flat-square" alt="Web"/>
+
+</div>
 
 A simple web application for financial management.
 
-**Technology:** HTML
+<div align="center">
 
-[![Repository](https://img.shields.io/badge/ACCESS-REPOSITORY-8B5CF6?style=for-the-badge&logo=github)](https://github.com/daffaharashtarizkypratama-commits/GraphixCalculator)
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-8B5CF6?style=for-the-badge&logo=github)](https://github.com/daffaharashtarizkypratama-commits/GraphixCalculator)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### `04 // LAUNDRY MANAGEMENT`
+<h3 align="center">LAUNDRY MANAGEMENT</h3>
 
-**Java Laundry Service System**
+<div align="center">
 
-A laundry management application developed using Java.
+<img src="https://img.shields.io/badge/TECH-JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/TYPE-MANAGEMENT-00E5FF?style=flat-square" alt="Management"/>
 
-**Technology:** Java
+</div>
 
-[![Repository](https://img.shields.io/badge/ACCESS-REPOSITORY-8B5CF6?style=for-the-badge&logo=github)](https://github.com/daffaharashtarizkypratama-commits/sistem-layanan-laundry)
+A laundry service management project developed using Java.
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-8B5CF6?style=for-the-badge&logo=github)](https://github.com/daffaharashtarizkypratama-commits/sistem-layanan-laundry)
+
+</div>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### `05 // VUE + LARAVEL`
+<h3 align="center">VUE + LARAVEL</h3>
 
-**Frontend Development Project**
+<div align="center">
 
-A project exploring frontend development with Vue.js and Laravel.
+<img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
 
-**Technology:** Vue.js, Laravel, Blade
+</div>
 
-[![Repository](https://img.shields.io/badge/ACCESS-REPOSITORY-8B5CF6?style=for-the-badge&logo=github)](https://github.com/daffaharashtarizkypratama-commits/V3425053_Modul_8_Vue_Laravel)
+A frontend development project integrating Vue.js and Laravel.
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-8B5CF6?style=for-the-badge&logo=github)](https://github.com/daffaharashtarizkypratama-commits/V3425053_Modul_8_Vue_Laravel)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### `06 // MORE PROJECTS`
+<h3 align="center">MORE PROJECTS</h3>
 
-**Explore My Development Journey**
+Explore additional programming projects, experiments, and technical assignments.
 
-Discover additional programming projects, experiments, and technical assignments.
+<div align="center">
 
-[![Repositories](https://img.shields.io/badge/EXPLORE-ALL_PROJECTS-FF003C?style=for-the-badge&logo=github)](https://github.com/daffaharashtarizkypratama-commits?tab=repositories)
+[![Explore Projects](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-FF003C?style=for-the-badge&logo=github)](https://github.com/daffaharashtarizkypratama-commits?tab=repositories)
+
+</div>
 
 </td>
 </tr>
@@ -225,7 +270,9 @@ Discover additional programming projects, experiments, and technical assignments
 
 ---
 
-# `> ACHIEVEMENT_ARCHIVE`
+<!-- 08. GITHUB TROPHIES -->
+
+<h2 align="center">◈ ACHIEVEMENT ARCHIVE ◈</h2>
 
 <div align="center">
 
@@ -235,61 +282,54 @@ Discover additional programming projects, experiments, and technical assignments
 
 ---
 
-# `> CURRENT_MISSION`
+<!-- 09. CURRENT MISSION -->
 
-```text
-[ SYSTEM OBJECTIVES ]
-
-[+] MASTER WEB DEVELOPMENT
-[+] BUILD FULL-STACK APPLICATIONS
-[+] EXPLORE ARTIFICIAL INTELLIGENCE
-[+] DEVELOP DIGITAL PRODUCTS
-[+] IMPROVE SOFTWARE ENGINEERING SKILLS
-[+] CONTRIBUTE TO OPEN-SOURCE PROJECTS
-
-STATUS: WORK IN PROGRESS...
-```
+<h2 align="center">◈ CURRENT MISSION ◈</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LEARNING-IN_PROGRESS-8B5CF6?style=for-the-badge" alt="Learning"/>
-<img src="https://img.shields.io/badge/BUILDING-ACTIVE-00FF9C?style=for-the-badge" alt="Building"/>
-<img src="https://img.shields.io/badge/INNOVATING-ENABLED-FF003C?style=for-the-badge" alt="Innovating"/>
+<img src="https://img.shields.io/badge/01-MASTER_WEB_DEVELOPMENT-8B5CF6?style=for-the-badge" alt="Web Development"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/02-EXPLORE_ARTIFICIAL_INTELLIGENCE-00E5FF?style=for-the-badge" alt="Artificial Intelligence"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/03-BUILD_DIGITAL_PRODUCTS-FF003C?style=for-the-badge" alt="Digital Products"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/04-IMPROVE_EVERY_DAY-00FF9C?style=for-the-badge" alt="Continuous Learning"/>
 
 </div>
 
 ---
 
-# `> ESTABLISH_CONNECTION`
+<!-- 10. CONNECT -->
+
+<h2 align="center">◈ ESTABLISH CONNECTION ◈</h2>
 
 <div align="center">
 
 <a href="https://github.com/daffaharashtarizkypratama-commits">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Profile"/>
 </a>
 
 <br/><br/>
 
-**Open to learning, collaboration, and building meaningful digital projects.**
+`OPEN TO LEARNING • COLLABORATION • DIGITAL INNOVATION`
 
 </div>
 
 ---
 
-# `> END_OF_TRANSMISSION`
+<!-- 11. ANIMATED FOOTER -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:18002E,100:4C0070&height=180&section=footer&text=SYSTEM%20OFFLINE&fontSize=25&fontColor=FFFFFF&animation=fadeIn" alt="Cyberpunk Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001F35,40:4C0070,75:160024,100:050505&height=180&section=footer&text=END%20OF%20TRANSMISSION&fontSize=23&fontColor=FFFFFF&animation=twinkling" alt="Animated Cyberpunk Footer"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=40&lines=THANK+YOU+FOR+VISITING;KEEP+LEARNING;KEEP+BUILDING;KEEP+INNOVATING" alt="Footer Animation"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=THANK+YOU+FOR+VISITING;KEEP+LEARNING...;KEEP+BUILDING...;KEEP+INNOVATING..." alt="Footer Typing Animation"/>
+**DAFFA HARASHTA RIZKY PRATAMA**
 
-<br/>
-
-`DESIGNED BY DAFFA HARASHTA RIZKY PRATAMA`
-
-**THINK • BUILD • INNOVATE • REPEAT**
+`THINK • BUILD • INNOVATE • REPEAT`
 
 </div>
