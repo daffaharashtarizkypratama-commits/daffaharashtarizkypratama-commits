@@ -154,10 +154,6 @@ Creating technology that solves real problems and provides meaningful value.
 
 <img width="75%" src="https://streak-stats.demolab.com?user=daffaharashtarizkypratama-commits&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF003C&currStreakLabel=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B5CF6&dates=9CA3AF" alt="GitHub Streak"/>
 
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=daffaharashtarizkypratama-commits&bg_color=0D1117&color=8B5CF6&line=00E5FF&point=FFFFFF&area=true&area_color=4C0070&hide_border=true&custom_title=ACTIVITY%20SIGNAL" alt="Activity Graph"/>
-
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/divider.svg" width="90%" alt=""/></div>
