@@ -1,42 +1,30 @@
 <!-- =========================================================
-     DAFFA HARASHTA RIZKY PRATAMA
-     DARK CYBERPUNK DEVELOPER PROFILE v2.0
-     Repo  : daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits
-     Asset : assets/*.svg  |  Workflow : .github/workflows/profile-assets.yml
+     DAFFA HARASHTA RIZKY PRATAMA — DARK CYBERPUNK PROFILE (FINAL)
+     Semua gambar dibuat sendiri di repo ini (assets/*.svg) atau
+     oleh GitHub Actions — tanpa layanan pihak ketiga yang sering mati.
 ========================================================== -->
 
-<!-- 01. HERO BANNER -->
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/banner.svg" alt="Daffa Harashta Rizky Pratama"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=%3E+INITIALIZING+SYSTEM...;%3E+ACCESS+GRANTED;%3E+WELCOME+TO+MY+DIGITAL+WORLD;%3E+WEB+DEVELOPER+%7C+AI+ENTHUSIAST;%3E+BUILDING+THE+FUTURE+WITH+CODE;%3E+THINK.+BUILD.+INNOVATE." alt="Typing Animation"/>
+<img width="80%" src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/typing.svg" alt="Web Developer | AI Enthusiast | Building the future with code"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF9C?style=for-the-badge&logo=linux&logoColor=black" alt="System Online"/>
 <img src="https://img.shields.io/badge/PROFILE-DARK_CYBER-8B5CF6?style=for-the-badge" alt="Dark Cyber"/>
 <img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-FF003C?style=for-the-badge" alt="Always Learning"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=daffaharashtarizkypratama-commits&label=PROFILE+VISITORS&color=8B5CF6&style=for-the-badge&labelColor=0D1117" alt="Profile Visitors"/>
-<a href="https://github.com/daffaharashtarizkypratama-commits?tab=followers"><img src="https://img.shields.io/github/followers/daffaharashtarizkypratama-commits?style=for-the-badge&logo=github&color=00E5FF&labelColor=0D1117" alt="Followers"/></a>
-<a href="https://github.com/daffaharashtarizkypratama-commits?tab=repositories"><img src="https://img.shields.io/github/stars/daffaharashtarizkypratama-commits?style=for-the-badge&logo=github&color=FF003C&labelColor=0D1117" alt="Stars"/></a>
-<img src="https://img.shields.io/github/last-commit/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits?style=for-the-badge&color=00FF9C&labelColor=0D1117&label=LAST+UPDATE" alt="Last Update"/>
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-00E5FF?style=for-the-badge" alt="Open to collaboration"/>
 
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/divider.svg" width="90%" alt=""/></div>
 
-<!-- 02. ABOUT -->
-
 <h2 align="center">◈ THE DEVELOPER BEHIND THE CODE ◈</h2>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/terminal.svg" width="80%" alt="Terminal Intro"/>
+<img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/terminal.svg" width="80%" alt="Terminal intro"/>
 </div>
 
 <br/>
@@ -44,13 +32,12 @@
 ```js
 // ~/daffa/profile.js
 const developer = {
-  name:      "Daffa Harashta Rizky Pratama",
-  role:      ["Informatics Engineering Student", "Web Developer", "AI Enthusiast"],
-  location:  "Surakarta, Indonesia 🇮🇩",
-  focus:     ["Web Apps", "Backend Systems", "IoT", "Artificial Intelligence"],
-  learning:  ["Laravel", "Vue.js", "Flutter", "Machine Learning"],
-  motto:     "Think. Build. Innovate. Repeat.",
-  status:    "ONLINE ⚡ — open to collaboration",
+  name:     "Daffa Harashta Rizky Pratama",
+  role:     ["Informatics Engineering Student", "Web Developer", "AI Enthusiast"],
+  focus:    ["Web Apps", "Backend Systems", "IoT", "Artificial Intelligence"],
+  learning: ["Laravel", "Vue.js", "Flutter", "Machine Learning"],
+  motto:    "Think. Build. Innovate. Repeat.",
+  status:   "ONLINE ⚡ — open to collaboration",
 };
 ```
 
@@ -95,33 +82,40 @@ Creating technology that solves real problems and provides meaningful value.
 
 <div align="center"><img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/divider.svg" width="90%" alt=""/></div>
 
-<!-- 03. TECH STACK -->
-
 <h2 align="center">◈ TECHNOLOGY ARSENAL ◈</h2>
 
 <div align="center">
 
 ### `// FRONTEND`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue&theme=dark" alt="Frontend Technologies"/>
-
-<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
 
 ### `// BACKEND & DATABASE`
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,java&theme=dark" alt="Backend Technologies"/>
-
-<br/><br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 
 ### `// DEVELOPMENT TOOLS`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma&theme=dark" alt="Development Tools"/>
-
-<br/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 
 ### `// EXPLORING`
 
-<img src="https://skillicons.dev/icons?i=python,flutter,dart,arduino&theme=dark" alt="Technologies Exploring"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
 
 <br/><br/>
 
@@ -141,58 +135,50 @@ Creating technology that solves real problems and provides meaningful value.
 
 <div align="center"><img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/divider.svg" width="90%" alt=""/></div>
 
-<!-- 04. ANALYTICS -->
-
 <h2 align="center">◈ GITHUB ANALYTICS ◈</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=daffaharashtarizkypratama-commits&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00E5FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaharashtarizkypratama-commits&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" alt="Top Languages"/>
+<img width="100%" src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/stats.svg" alt="GitHub Stats"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=daffaharashtarizkypratama-commits&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF003C&currStreakLabel=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B5CF6&dates=9CA3AF" alt="GitHub Streak"/>
+<img width="100%" src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/streak.svg" alt="Contribution Streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/languages.svg" alt="Top Languages"/>
+
+<br/><br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/activity.svg" alt="Activity Signal"/>
 
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/divider.svg" width="90%" alt=""/></div>
 
-<!-- 05. CONTRIBUTION MATRIX: SNAKE + 3D -->
-
 <h2 align="center">◈ CONTRIBUTION MATRIX ◈</h2>
 
 <div align="center">
 
-<!-- Dibuat otomatis oleh .github/workflows/profile-assets.yml -->
 <img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/output/github-snake-cyber.svg" width="100%" alt="Contribution Snake"/>
 
 <br/>
 
 `🐍 THE SNAKE EATS EVERY COMMIT`
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph"/>
-
-<br/>
-
-`EVERY COMMIT IS ANOTHER STEP FORWARD`
-
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/divider.svg" width="90%" alt=""/></div>
-
-<!-- 06. PROJECTS -->
 
 <h2 align="center">◈ PROJECT DATABASE ◈</h2>
 
 <div align="center">
 
-<a href="https://github.com/daffaharashtarizkypratama-commits/GraphixCalculator"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=daffaharashtarizkypratama-commits&repo=GraphixCalculator&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00E5FF&text_color=FFFFFF" alt="GraphixCalculator"/></a>
-<a href="https://github.com/daffaharashtarizkypratama-commits/sistem-layanan-laundry"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=daffaharashtarizkypratama-commits&repo=sistem-layanan-laundry&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00E5FF&text_color=FFFFFF" alt="Sistem Layanan Laundry"/></a>
+<a href="https://github.com/daffaharashtarizkypratama-commits/GraphixCalculator"><img width="49%" src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/project-1.svg" alt="GraphixCalculator"/></a>
+<a href="https://github.com/daffaharashtarizkypratama-commits/sistem-layanan-laundry"><img width="49%" src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/project-2.svg" alt="Sistem Layanan Laundry"/></a>
 
-<a href="https://github.com/daffaharashtarizkypratama-commits/V3425053_Modul_8_Vue_Laravel"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=daffaharashtarizkypratama-commits&repo=V3425053_Modul_8_Vue_Laravel&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00E5FF&text_color=FFFFFF" alt="Vue + Laravel"/></a>
+<a href="https://github.com/daffaharashtarizkypratama-commits/V3425053_Modul_8_Vue_Laravel"><img width="49%" src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/project-3.svg" alt="Vue + Laravel"/></a>
 
 </div>
 
@@ -245,7 +231,15 @@ An environmental monitoring project using ESP32 and sensors to explore connected
 
 <div align="center"><img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/divider.svg" width="90%" alt=""/></div>
 
-<!-- 07. ROADMAP -->
+<h2 align="center">◈ ACHIEVEMENT ARCHIVE ◈</h2>
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/achievements.svg" alt="Achievements"/>
+
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/divider.svg" width="90%" alt=""/></div>
 
 <h2 align="center">◈ DEVELOPER ROADMAP ◈</h2>
 
@@ -287,20 +281,6 @@ An environmental monitoring project using ESP32 and sensors to explore connected
 
 <div align="center"><img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/divider.svg" width="90%" alt=""/></div>
 
-<!-- 08. TROPHIES -->
-
-<h2 align="center">◈ ACHIEVEMENT ARCHIVE ◈</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=daffaharashtarizkypratama-commits&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
-<div align="center"><img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/divider.svg" width="90%" alt=""/></div>
-
-<!-- 09. MISSION -->
-
 <h2 align="center">◈ CURRENT MISSION ◈</h2>
 
 <div align="center">
@@ -331,18 +311,6 @@ An environmental monitoring project using ESP32 and sensors to explore connected
 
 <div align="center"><img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/divider.svg" width="90%" alt=""/></div>
 
-<!-- 10. QUOTE -->
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote"/>
-
-</div>
-
-<div align="center"><img src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/divider.svg" width="90%" alt=""/></div>
-
-<!-- 11. CONNECT -->
-
 <h2 align="center">◈ ESTABLISH CONNECTION ◈</h2>
 
 <div align="center">
@@ -359,20 +327,10 @@ An environmental monitoring project using ESP32 and sensors to explore connected
 
 `OPEN TO LEARNING • COLLABORATION • DIGITAL INNOVATION`
 
-</div>
-
-<!-- 12. FOOTER -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001F35,40:4C0070,75:160024,100:050505&height=180&section=footer&text=END%20OF%20TRANSMISSION&fontSize=23&fontColor=FFFFFF&animation=twinkling" alt="Animated Cyberpunk Footer"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=40&lines=THANK+YOU+FOR+VISITING;KEEP+LEARNING;KEEP+BUILDING;KEEP+INNOVATING" alt="Footer Animation"/>
-
 <br/>
 
-**DAFFA HARASHTA RIZKY PRATAMA**
+<img width="100%" src="https://raw.githubusercontent.com/daffaharashtarizkypratama-commits/daffaharashtarizkypratama-commits/main/assets/footer.svg" alt="End of transmission"/>
 
-`THINK • BUILD • INNOVATE • REPEAT`
+**DAFFA HARASHTA RIZKY PRATAMA**
 
 </div>
